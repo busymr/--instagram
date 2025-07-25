@@ -13,8 +13,9 @@ Avalon Frontend 是一个基于 Vue.js + UniApp 的微信小程序前端项目�
 <img width="411" height="799" alt="11c5630fe08bc330c235d74263d7d989" src="https://github.com/user-attachments/assets/39ed44cf-fd85-47d7-9d45-b92a5061fb93" />
 <img width="417" height="801" alt="25413543c62a6589f1495a7169146a0c" src="https://github.com/user-attachments/assets/c2fc4597-9f94-4c04-9587-417c148bb4ad" />
 <img width="413" height="802" alt="1a8a8e46a0eae7e8dc1b76d6d9dcd102" src="https://github.com/user-attachments/assets/4b1028b4-0cff-4126-b0b1-fda90e02332e" />
-![25b4940184fac03655d918f4fb8945cc](https://github.com/user-attachments/assets/e362c59f-f628-4ceb-b139-59f3e4e5f235)
-![25b4940184fac03655d918f4fb8945cc](https://github.com/user-attachments/assets/c136e7ef-5726-47f2-bd07-c48c5ed95e41)
+<img width="413" height="802" alt="1a8a8e46a0eae7e8dc1b76d6d9dcd102" src="https://github.com/user-attachments/assets/e362c59f-f628-4ceb-b139-59f3e4e5f235" />
+<img width="413" height="802" alt="1a8a8e46a0eae7e8dc1b76d6d9dcd102" src="https://github.com/user-attachments/assets/c136e7ef-5726-47f2-bd07-c48c5ed95e41" />
+
 
 
 ## 技术栈
